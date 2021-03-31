@@ -1,0 +1,29 @@
+/* Untuk Tablet  */
+@media all (max-width:1000px)
+{
+    }
+    section {
+        padding: 40px;
+    }
+    .banner .img {
+        margin-bottom: 50px;
+    }
+    .banner .content h2 {
+        font-size: 2.5em;
+    }
+    .banner .content p {
+        font-size: 1em;
+}   .
+
+@media all and (max-width: 670px)
+{
+    .header-right {
+        display: none;
+    }
+    .footer .ul {
+        display: 50%;
+    }
+    .footer .h4 {
+        text-align: left;
+    }
+}
